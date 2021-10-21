@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Karadarevic
-- 👀 I’m interested in HTML, CSS and JS
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on as many projects i can
-- 📫 You can reach me by my e-mail (lucasvuletic@gmail.com) on my facebook (Lucas Vuletic) or twitter (@lucasvuletic)
+Olá! Eu sou o Lucas, entusiasta de programação, atualmente estudando HTML, CSS e Javascript.
+Gosto de compartilhar projetos e trocar experiência, informação e soluções, sinta-se a vontade para me mandar mensagem
+
 
 <!---
 Karadarevic/Karadarevic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
