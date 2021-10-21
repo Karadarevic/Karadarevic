@@ -10,8 +10,8 @@ Sinta-se a vontade para me mandar mensagem </p>
       
 <div align="center">
   <a href="https://github.com/Karadarevic">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=Karadarevic&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karadarevic&layout=compact&langs_count=7&theme=calm"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Karadarevic&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karadarevic&layout=compact&langs_count=7&theme=calm"/>
 </div>
       
 <div style="display: inline_block" align="center"><br>
@@ -20,7 +20,7 @@ Sinta-se a vontade para me mandar mensagem </p>
   <img align="center" alt="Kara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
- 
+ <br>
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCRqntGl4jbnNB1HF6gG4kjw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/lucasvuletic/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
