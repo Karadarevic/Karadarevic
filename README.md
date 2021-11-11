@@ -5,7 +5,7 @@ Gosto de compartilhar projetos e trocar experiência, informação e soluções.
 Sinta-se a vontade para me mandar mensagem </p>
 
 <div align="center">
-      <img align="top" height="200" width="300" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif">
+      <img align="top" style="border-radius= 15%" height="200" width="300" src="https://cdn.dribbble.com/users/3213828/screenshots/6612869/mclarenf1800x600.gif">
 </div>
       
 <br>
