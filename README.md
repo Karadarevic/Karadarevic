@@ -1,6 +1,6 @@
 
 
-<p> Olá! Eu sou o Lucas, desenvolvedor web, atualmente estudando HTML, CSS e Javascript. <br>
+<p align="center" justify-content="justify"> Olá! Eu sou o Lucas, desenvolvedor web, atualmente estudando HTML, CSS e Javascript. <br>
 Gosto de compartilhar projetos e trocar experiência, informação e soluções. <br> 
 Sinta-se a vontade para me mandar mensagem </p>
 
