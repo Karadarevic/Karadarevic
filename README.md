@@ -4,7 +4,7 @@
 Gosto de compartilhar projetos e trocar experiência, informação e soluções. <br> 
 Sinta-se a vontade para me mandar mensagem </p>
 
-<p> Hi! My name is Lucas, i'm a web developer studying HTML, CSS, Javascript and ReactJs. <br>
+<p align="center"> Hi! My name is Lucas, i'm a web developer studying HTML, CSS, Javascript and ReactJs. <br>
       Feel free to send me a message here or in any other social plataform you like to <p/>
 
 <div align="center">
